@@ -2,6 +2,8 @@
 
 Personal workflow skills for AI coding agents. Covers the full development lifecycle — design through merge — and works with any agent that supports the [open skills standard](https://agentskills.io/specification).
 
+Inspired by https://github.com/garrytan/gbrain
+
 ## Skills
 
 | Skill | When to use |
